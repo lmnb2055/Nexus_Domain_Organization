@@ -1,0 +1,60 @@
+id: eu2025-human-exposome-report
+title: 'Human Exposome Research: Potential, Limitations and Public Policy Implications'
+authors:
+- family: Vermeulen
+  given: Roel
+- family: Safarlou
+  given: Caspar
+- family: Downward
+  given: George
+- family: Hoek
+  given: Gerard
+- family: Miller
+  given: Gary
+- family: Peters
+  given: Susan
+- family: Vlaanderen
+  given: Jelle
+- family: Vrijheid
+  given: Martine
+year: 2025
+venue: European Parliamentary Research Service (STOA Report)
+doi: 10.2861/5600247
+url: https://www.europarl.europa.eu/stoa
+
+domains:
+- chemical
+- climate
+- biological
+- psychosocial
+- built
+- social
+- methodological
+
+subdomains:
+  chemical.chemicals:
+    - Mixtures of regulated & unregulated chemicals
+    - Industrial toxicants, pesticides, microplastics
+  climate.change:
+    - Climate adaptation exposures (heatwaves, extreme weather)
+    - Climate-health interactions (One Health, adaptation policies)
+  biological.responses:
+    - Bodily responses (biomarkers, omics, exposome-health pathways)
+    - AI-based predictive models for exposome-health links
+  psychosocial.factors:
+    - Psychosocial and behavioral exposures (stress, inequality)
+  built.cities:
+    - Urban planning, housing quality, sustainable transport
+    - Green and blue spaces
+  social.child:
+    - Child health (early-life environmental determinants)
+  social.career:
+    - Workplace exposures, occupational hazards
+  social.clinical:
+    - Clinical practice, exposome-informed guidance
+  social.citizen:
+    - Citizen engagement, lifestyle empowerment
+  methodological.data:
+    - FAIR data, exposome cohorts (10M pan-European cohort)
+    - Integration of fragmented health research silos
+    - Ethical issues in exposomics (privacy, governance)

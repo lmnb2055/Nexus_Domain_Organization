@@ -1,0 +1,35 @@
+id: wild2025-exposome-twenty
+title: 'The Exposome at Twenty: Reflections on a Decade of Progress'
+authors:
+- family: Wild
+  given: Christopher P.
+year: 2025
+venue: International Journal of Epidemiology
+doi: 10.1093/ije/dyaf020
+url: https://doi.org/10.1093/ije/dyaf020
+
+domains:
+- chemical
+- biological
+- social
+- methodological
+- policy
+
+subdomains:
+  chemical.exposures:
+    - Chemical mixtures, industrial pollutants
+    - Persistent and non-persistent toxicants
+  biological.omics:
+    - Multi-omics integration (genomics, epigenomics, metabolomics, proteomics)
+    - Biomarkers of internal dose and effect
+  social.determinants:
+    - Socioeconomic status, inequality, lifestyle
+    - Early-life environment, occupational exposures
+  methodological.framework:
+    - Environment-wide association studies (EWAS)
+    - Data harmonization, FAIR principles
+    - High-resolution mass spectrometry, sensors
+  policy.translation:
+    - Public health integration
+    - Regulatory implications of exposomics
+    - Funding priorities, global collaboration

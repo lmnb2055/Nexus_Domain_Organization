@@ -1,0 +1,46 @@
+id: santos2020-birthcohorts
+title: 'Applying the Exposome Concept in Birth Cohort Research: A Review of Statistical Approaches'
+authors:
+- family: Santos
+  given: Susana
+- family: Maitre
+  given: Léa
+- family: Warembourg
+  given: Charline
+- family: Agier
+  given: Lydiane
+- family: Richiardi
+  given: Lorenzo
+- family: Basagaña
+  given: Xavier
+- family: Vrijheid
+  given: Martine
+year: 2020
+venue: European Journal of Epidemiology
+doi: 10.1007/s10654-020-00625-4
+url: https://doi.org/10.1007/s10654-020-00625-4
+
+domains:
+- chemical
+- lifestyle
+- social
+- biological
+- methodological
+- climate
+- built
+
+subdomains:
+  chemical.exposures:
+    - Environmental pollutants, tobacco, diet
+  lifestyle.behaviors:
+    - Physical activity, maternal behaviors
+  social.context:
+    - Education, urban/rural, social capital
+  biological.internal:
+    - Inflammation, metabolism, epigenetics, gut microbiota
+  methodological.statistics:
+    - ExWAS, multivariate regression, machine learning, imputation methods
+  climate.factors:
+    - Urban/rural environment, climate mapping
+  built.environment:
+    - Housing, neighborhood, spatial modeling

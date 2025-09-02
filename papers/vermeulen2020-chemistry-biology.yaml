@@ -1,0 +1,48 @@
+id: vermeulen2020-chemistry-biology
+title: 'The exposome and health: Where chemistry meets biology'
+authors:
+- family: Vermeulen
+  given: Roel
+- family: Schymanski
+  given: Emma L.
+- family: Barabási
+  given: Albert-László
+- family: Miller
+  given: Gary W.
+year: 2020
+venue: Science
+doi: 10.1126/science.aay3164
+url: https://www.science.org/doi/10.1126/science.aay3164
+
+domains:
+- chemical
+- biological
+- lifestyle
+- social
+- physical
+- methodological
+- regulatory
+
+subdomains:
+  chemical.pollutants:
+    - Persistent organic pollutants
+    - Pesticides, plasticizers, flame retardants
+    - Pharmaceuticals, preservatives
+  biological.responses:
+    - Inflammation, oxidative stress, gut microbiome
+    - Endogenous metabolites, lipid peroxidation
+  lifestyle.behaviors:
+    - Diet, physical activity, sleep, smoking, alcohol, drug use
+  social.factors:
+    - Household income, inequality, cultural norms, stress
+    - Social capital, networks
+  physical.environment:
+    - Temperature, humidity, light, noise, electromagnetic fields
+    - Outdoor/indoor air pollution, occupational exposures
+  methodological.approaches:
+    - High-resolution mass spectrometry (HRMS)
+    - Environment-wide association studies (EWAS)
+    - Network science, exposome risk score (ERS)
+  regulatory.policy:
+    - Prioritization frameworks (NORMAN, EPA, EU)
+    - Risk assessment, replacement chemicals

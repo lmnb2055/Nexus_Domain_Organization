@@ -1,0 +1,36 @@
+id: safarlou2023-ethical-exposome
+title: 'The Ethical Aspects of Exposome Research: A Systematic Review'
+authors:
+- family: Safarlou
+  given: Caspar W.
+- family: Jongsma
+  given: Karin R.
+- family: Vermeulen
+  given: Roel
+- family: Bredenoord
+  given: Annelien L.
+year: 2023
+venue: Exposome
+doi: 10.1093/exposome/osad004
+url: https://doi.org/10.1093/exposome/osad004
+
+domains:
+- ethical
+- methodological
+- technological
+- social
+
+subdomains:
+  ethical.goals:
+    - Alignment of research program goals with societal values
+    - Participant and community engagement
+  methodological.standards:
+    - Measurement validity, peer review, reproducibility
+    - IRB/ethics committee challenges, digital health tools oversight
+  technological.tools:
+    - Smart sensors, expotypes, high-throughput omics
+    - Data minimalization vs big-data approaches
+  social.implications:
+    - Participant privacy, consent
+    - Bias in data, algorithms, AI
+    - Actionability of exposome findings for individuals

@@ -1,0 +1,52 @@
+id: schmitt2023-federated-exposomics
+title: 'A Roadmap to Advance Exposomics through Federation of Data'
+authors:
+- family: Schmitt
+  given: Charles P.
+- family: Stingone
+  given: Jeanette A.
+- family: Rajasekar
+  given: Arcot
+- family: Cui
+  given: Yuxia
+- family: Du
+  given: Xiuxia
+- family: Duncan
+  given: Chris
+- family: Heacock
+  given: Michelle
+- family: Hu
+  given: Hui
+- family: Gonzalez
+  given: Juan R.
+- family: Juarez
+  given: Paul D.
+- family: Smirnov
+  given: Alex I.
+year: 2023
+venue: Exposome
+doi: 10.1093/exposome/osad010
+url: https://doi.org/10.1093/exposome/osad010
+
+domains:
+- data
+- methodological
+- social
+- technological
+- clinical
+
+subdomains:
+  data.federation:
+    - Data ecosystem (federated repositories, FAIR principles)
+    - Cross-study linkage, semantic standards
+  methodological.analysis:
+    - ExWAS, functional exposomics
+    - Machine learning, pooled analysis, replicability
+  social.community:
+    - Community-level exposomics, neighborhood deprivation
+    - Exposome Community of Practice (CoP)
+  technological.platforms:
+    - Cloud computing, workflow pipelines, interoperability
+  clinical.translation:
+    - Precision nutrition, public health impact
+    - Linking exposome data to health outcomes (disease rates, clinical research networks)

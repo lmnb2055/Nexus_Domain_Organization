@@ -1,0 +1,25 @@
+id: patel2017-mixtures
+title: 'Analytic Complexity and Challenges in Identifying Mixtures of Exposures Associated with Phenotypes in the Exposome Era'
+authors:
+- family: Patel
+  given: Chirag J.
+year: 2017
+venue: Current Epidemiology Reports
+doi: 10.1007/s40471-017-0100-5
+url: https://doi.org/10.1007/s40471-017-0100-5
+
+domains:
+- chemical
+- methodological
+- social
+
+subdomains:
+  chemical.mixtures:
+    - Co-exposures (lead, cadmium, bisphenol A)
+    - Persistent pollutants, nutrients
+  methodological.machinelearning:
+    - Correlation networks, clustering, relevance networks
+    - Environment-wide association studies (EWAS)
+  social.surveys:
+    - NHANES exposure data
+    - National Children’s Health Exposure Analysis Resource (CHEAR)

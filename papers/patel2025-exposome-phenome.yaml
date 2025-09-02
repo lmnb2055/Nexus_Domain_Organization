@@ -1,0 +1,35 @@
+id: patel2025-exposome-phenome
+title: 'Architecture of Exposome-Phenome Associations'
+authors:
+- family: Patel
+  given: Chirag J.
+- family: Ioannidis
+  given: John P. A.
+- family: Manrai
+  given: Arjun K.
+year: 2025
+venue: medRxiv (preprint)
+doi: 10.1101/2025.06.05.25329055
+url: https://doi.org/10.1101/2025.06.05.25329055
+
+domains:
+- chemical
+- social
+- clinical
+- methodological
+
+subdomains:
+  chemical.pollutants:
+    - Heavy metals, hydrocarbons, organochlorines
+    - PFAS, persistent pollutants
+  social.lifestyle:
+    - Dietary intake, smoking, alcohol
+    - Education, income, ethnicity
+  clinical.phenotypes:
+    - Anthropometric (BMI, waist circumference)
+    - Inflammation markers, serum bilirubin
+    - Triglycerides, cardiometabolic outcomes
+  methodological.pexwas:
+    - Phenotype-exposure-wide association studies (P-ExWAS)
+    - Replication across NHANES cohorts
+    - Variance explained (R²) by single vs. multiple exposures

@@ -1,0 +1,33 @@
+id: safarlou2024-reconceptualizing
+title: 'Reconceptualizing and Defining Exposomics within Environmental Health: Expanding the Scope of Health Research'
+authors:
+- family: Safarlou
+  given: Caspar W.
+- family: Jongsma
+  given: Karin R.
+- family: Vermeulen
+  given: Roel
+year: 2024
+venue: Environmental Health Perspectives
+doi: 10.1289/EHP14509
+url: https://doi.org/10.1289/EHP14509
+
+domains:
+- conceptual
+- methodological
+- technological
+- biological
+
+subdomains:
+  conceptual.definition:
+    - Exposomics as discovery-driven research program (not just synonym for "environment")
+    - Complementary to genomics, comprehensive analysis of exposures and responses
+  methodological.approach:
+    - Discovery-driven vs hypothesis-driven research
+    - Integration of fragmented research silos (disease-specific or exposure-specific)
+  technological.needs:
+    - Mass spectrometry (targeted vs untargeted), causal inference algorithms
+    - Cohorts, data platforms, new omics assays
+  biological.responses:
+    - Internal body processes: inflammation, metabolism, hormones
+    - Multi-omics biomarkers

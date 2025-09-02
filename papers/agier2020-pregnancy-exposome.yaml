@@ -1,0 +1,52 @@
+id: agier2020-pregnancy-fetal-growth
+title: 'Association between the pregnancy exposome and fetal growth'
+authors:
+- family: Agier
+  given: Lydiane
+- family: Slama
+  given: Rémy
+- family: Vrijheid
+  given: Martine
+- family: et al.
+  given: ''
+year: 2020
+venue: International Journal of Epidemiology
+doi: 10.1093/ije/dyaa017
+url: https://doi.org/10.1093/ije/dyaa017
+
+domains:
+- chemical
+- physical
+- climate
+- built
+- social
+- biological
+
+subdomains:
+  chemical.metals:
+    - Lead, Cadmium, Arsenic, Mercury, Manganese, Cobalt, Copper, Molybdenum, Cesium, Thallium
+  chemical.persistent:
+    - PCBs, HCB, DDT, DDE
+  chemical.phthalates:
+    - OHMiNP, OXOMiNP metabolites (novel in fetal growth studies)
+  chemical.phenols:
+    - Parabens (ethyl, propyl, butyl)
+    - Bisphenol A
+  chemical.pesticides:
+    - Organophosphate pesticide metabolites
+  physical.noise:
+    - Day-night sound level (Lden), night sound level (Lnight)
+  climate.meteorological:
+    - Temperature, pressure, humidity
+  built.environment:
+    - Bus lines/stops, building density, connectivity density
+    - Land use, walkability, traffic density, distance to major road
+    - Facilities (number, type), population density
+    - Green space (NDVI), blue space
+  social.lifestyle:
+    - Smoking, alcohol
+    - Diet (cereals, dairy, fast food, fish/seafood, legumes, meat, fruits, vegetables)
+    - Folic acid supplementation
+    - Physical activity, walking/cycling, sports
+  biological.outcomes:
+    - Birth weight, fetal growth (sensitive to exposures)

@@ -1,0 +1,43 @@
+id: petitvuillerme2025-bibliometric
+title: 'Global Research Trends on the Human Exposome: A Bibliometric Analysis (2005–2024)'
+authors:
+- family: Petit
+  given: Pascal
+- family: Vuillerme
+  given: Nicolas
+year: 2025
+venue: Environmental Science and Pollution Research
+doi: 10.1007/s11356-025-36197-7
+url: https://doi.org/10.1007/s11356-025-36197-7
+
+domains:
+- chemical
+- biological
+- social
+- built
+- occupational
+- climate
+- digital
+- methodological
+
+subdomains:
+  chemical.pollutants:
+    - PFAS, endocrine-disrupting chemicals, pesticides
+    - Air pollution, particulate matter
+  biological.omics:
+    - Metabolomics, biomarkers, microbiome
+    - Cancer, reproductive disorders
+  social.factors:
+    - Early-life exposures, socioeconomic status
+  built.environment:
+    - Urban health, housing, green/blue spaces
+  occupational.exposures:
+    - Workplace hazards, reproductive health links
+  climate.change:
+    - Climate-driven exposures, extreme weather
+  digital.exposome:
+    - Wearable sensors, screen time, digital health data
+    - AI and machine learning in exposome studies
+  methodological.bibliometric:
+    - Keyword co-occurrence, thematic mapping
+    - Sex disparities in authorship & citations

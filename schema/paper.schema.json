@@ -1,0 +1,168 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.org/schema/paper.schema.json",
+    "title": "Literature Paper Entry",
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "title", "year", "domains", "indicators", "data"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{2,}$",
+        "description": "machine id, e.g., agier2020-pregnancy-exposome"
+      },
+      "title": { "type": "string", "minLength": 1 },
+      "authors": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["family", "given"],
+          "properties": {
+            "family": { "type": "string" },
+            "given": { "type": "string" }
+          }
+        }
+      },
+      "year": { "type": "integer", "minimum": 1800, "maximum": 2100 },
+      "venue": { "type": "string" },
+      "doi": { "type": ["string", "null"] },
+      "url": { "type": ["string", "null"], "format": "uri" },
+  
+      "domains": {
+        "type": "array",
+        "minItems": 1,
+        "items": { "type": "string", "minLength": 1 },
+        "description": "e.g., ['chemical','physical','climate','biological','social','built']"
+      },
+  
+      "subdomains": {
+        "type": "object",
+        "description": "允許點號鍵 (e.g. 'chemical.airpollution.ambient') 與群組鍵 (e.g. 'chemical')。",
+        "patternProperties": {
+            "^[a-zA-Z0-9]+(?:\\.[a-zA-Z0-9_-]+)+$": {
+            "description": "完整命名空間鍵（建議用法）",
+            "oneOf": [
+                { "type": "array", "items": { "type": ["string", "number"] } },
+                { "type": "string" },
+                { "type": "object", "additionalProperties": true }
+            ]
+            },
+            "^[a-zA-Z0-9]+$": {
+            "description": "群組鍵（暫時容忍，如 'chemical', 'built'）",
+            "oneOf": [
+                { "type": "array", "items": { "type": ["string", "number"] } },
+                { "type": "string" },
+                { "type": "object", "additionalProperties": true }
+            ]
+            }
+        },
+        "additionalProperties": true
+        },
+
+        
+      "indicators": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["name", "operationalization"],
+          "properties": {
+            "name": { "type": "string" },
+            "operationalization": { "type": "string" },
+            "instrument": { "type": "string" },
+            "measure_type": { "type": "string" },
+            "notes": { "type": "string" }
+          }
+        }
+      },
+  
+      "paper_labels": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+  
+      "definition": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "quote": { "type": "string" },
+          "summary": { "type": "string" }
+        }
+      },
+  
+      "operationalization": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "multi_omics": { "type": "array", "items": { "type": ["string", "object"] } },
+          "microbiome": { "type": "array", "items": { "type": ["string", "object"] } },
+          "exposome_measurement": { "type": "array", "items": { "type": ["string", "object"] } },
+          "risk_prediction": { "type": "array", "items": { "type": ["string", "object"] } }
+        }
+      },
+  
+      "data": {
+        "description": "Accepts either conceptual/perspective metadata or empirical study metadata.",
+        "oneOf": [
+          {
+            "title": "Conceptual / Perspective / Policy",
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["study_type"],
+            "properties": {
+              "study_type": { "type": "string", "minLength": 1 },
+              "scope": { "type": "string" },
+              "examples": { "type": "array", "items": { "type": "string" } },
+              "methods": { "type": "array", "items": { "type": "string" } },
+              "initiatives": { "type": "array", "items": { "type": "string" } },
+              "key_results": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          {
+            "title": "Empirical / Cohort / Trial / Cross-sectional",
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["analysis_methods"],
+            "properties": {
+              "study_population": {
+                "oneOf": [
+                  { "type": "string" },
+                  {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                      "cohorts": { "type": "array", "items": { "type": "string" } },
+                      "population": { "type": "string" }
+                    }
+                  }
+                ]
+              },
+              "cohorts": { "type": "array", "items": { "type": "string" } },
+              "sample_size": { "type": "integer", "minimum": 0 },
+              "population": { "type": "string" },
+              "exposures_total": { "type": "integer", "minimum": 0 },
+              "exposures": { "type": ["string", "array"], "items": { "type": "string" } },
+              "exposure_sources": { "type": "array", "items": { "type": "string" } },
+              "analysis_methods": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+              "key_results": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        ]
+      },
+  
+      "notes": { "type": "string" },
+      "tags": { "type": "array", "items": { "type": "string" } },
+  
+      "domain": {
+        "type": ["string", "null"],
+        "description": "DEPRECATED: use 'domains' instead."
+      },
+      "subdomain": {
+        "type": ["string", "null"],
+        "description": "DEPRECATED: use 'subdomains' instead."
+      }
+    }
+  }
+  

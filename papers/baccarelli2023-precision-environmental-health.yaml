@@ -1,0 +1,40 @@
+id: baccarelli2023-precision-eh
+title: 'A Precision Environmental Health Approach to Prevention of Human Disease'
+authors:
+- family: Baccarelli
+  given: Andrea
+- family: Dolinoy
+  given: Dana C.
+- family: Walker
+  given: Cheryl Lyn
+year: 2023
+venue: Nature Communications
+doi: 10.1038/s41467-023-37626-2
+url: https://doi.org/10.1038/s41467-023-37626-2
+
+domains:
+- chemical
+- climate
+- built
+- psychosocial
+- biological
+- methodological
+
+subdomains:
+  chemical.exposures:
+    - Air pollutants, metals, pesticides, plasticizers, PFAS
+  climate.change:
+    - Heatwaves, wildfires, extreme weather, climate-driven exposures
+  built.environment:
+    - Housing, urban density, transport, industrial proximity
+  psychosocial.factors:
+    - Social stress, inequality, environmental injustice
+  biological.genome:
+    - Genomics, genetic susceptibility (SNPs, CRISPR editing)
+  biological.epigenome:
+    - DNA methylation, histone modifications, chromatin structure
+  biological.transcriptome:
+    - mRNA, non-coding RNAs, epitranscriptomics
+  biological.proteome:
+    - Proteomic biomarkers, protein-level changes from pollutants
+  biological.metabolome:

@@ -1,0 +1,50 @@
+id: chung2018-exposome-variability
+title: 'Toward Capturing the Exposome: Exposure Biomarker Variability and Coexposure Patterns in the Shared Environment'
+authors:
+- family: Chung
+  given: Ming Kei
+- family: Kannan
+  given: Kurunthachalam
+- family: Louis
+  given: Germaine M.
+- family: Patel
+  given: Chirag J.
+year: 2018
+venue: Environmental Science & Technology
+doi: 10.1021/acs.est.8b01467
+url: https://doi.org/10.1021/acs.est.8b01467
+
+domains:
+- chemical
+- biological
+- social
+- methodological
+
+subdomains:
+  chemical.persistent:
+    - PCBs (36 congeners)
+    - Organochlorine pesticides (HCB, β-HCH, γ-HCH, chlordane, DDT, DDE, mirex)
+    - Polybrominated compounds (PBDEs, PBB)
+    - PFASs (PFOA, PFOS, PFOSA, PFNA, PFDeA, etc.)
+  chemical.nonpersistent:
+    - Phthalate metabolites (14 types: MBP, MiBP, MEP, etc.)
+    - Phenols (BPA, benzophenones)
+    - Parabens, triclosan (TCS), triclocarban (TCC)
+    - Paracetamol & 4-aminophenol
+    - Phytoestrogens (genistein, daidzein, equol, enterolactone, etc.)
+  chemical.metals:
+    - Blood: Cd, Pb, Hg
+    - Urine: Mn, Cr, Be, Co, Mo, Sn, Cs, Ba, Ni, Cu, Zn, W, Pt, Tl, U
+    - Metalloids: Se, As, Sb, Te
+  biological.biomarkers:
+    - Serum cotinine (tobacco exposure biomarker)
+    - Lipids (cholesterol, triglycerides, phospholipids)
+    - Creatinine (urinary adjustment biomarker)
+  social.household:
+    - Shared household effects on variance (PFASs & blood metals ~40%)
+    - Sex-specific differences in exposures
+    - Partner concordance in couples (low-to-moderate correlations)
+  methodological.analysis:
+    - Exposome globe visualization (coexposure patterns)
+    - Variance partitioning (shared vs. individual environment)
+    - Comparisons with NHANES data for validation

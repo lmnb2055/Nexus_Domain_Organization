@@ -1,0 +1,65 @@
+id: maitre2022-helix-multiomics
+title: 'Multi-omics signatures of the human early life exposome'
+authors:
+- family: Maitre
+  given: Léa
+- family: Vrijheid
+  given: Martine
+- family: et al.
+  given: ''
+year: 2022
+venue: Nature Communications
+doi: 10.1038/s41467-022-34422-2
+url: https://doi.org/10.1038/s41467-022-34422-2
+
+domains:
+- chemical
+- physical
+- climate
+- built
+- social
+- biological
+
+subdomains:
+  chemical.airpollution.ambient:
+    - PM2.5, PM10, NO2, PM2.5 absorbance
+    - Indoor benzene, toluene, ethylbenzene, xylenes
+  chemical.metals:
+    - Cadmium, Molybdenum, Copper, Caesium
+    - Lead, Mercury, Arsenic, Cobalt, Manganese, Thallium, Uranium
+  chemical.phenols:
+    - Bisphenol A
+    - Parabens (methyl, ethyl, propyl, butyl)
+    - Triclosan
+  chemical.phthalates:
+    - DEHP metabolites (MEHHP, MEHP, MEOHP, MECPP)
+    - MBzP, MiBP, MnBP, OHMiNP, OXOMiNP, MEP
+  chemical.persistent:
+    - PCBs (118, 138, 153, 170, 180)
+    - HCB, DDT, DDE
+    - PBDEs (47, 153)
+    - PFAS (PFOA, PFOS, PFHxS, PFNA, PFUnDA)
+    - Organophosphate pesticides (DEP, DETP, DMP, DMTP, DMDTP)
+  physical.noise:
+    - Outdoor traffic & residential noise
+  climate.meteorological:
+    - Temperature, humidity, UV, pressure
+  built.environment:
+    - Distance to major road, traffic density
+    - Green space (NDVI), blue space
+    - Building density, connectivity density
+    - Facility density, housing crowding
+  social.lifestyle:
+    - Maternal smoking, alcohol
+    - Diet (fish, dairy, cereals, vegetables, fast food, sweets)
+    - Physical activity, social participation
+  biological.epigenome:
+    - DNA methylation (450K CpG sites)
+  biological.transcriptome:
+    - mRNA (58k transcript clusters)
+    - miRNA (1117 probes)
+  biological.proteome:
+    - Plasma proteins (36 cytokines, apolipoproteins, adipokines)
+  biological.metabolome:
+    - Serum metabolites (177: amino acids, acylcarnitines, lipids, hexoses)
+    - Urinary metabolites (44: amino acids, organic acids, nicotinamides, gut-microbial phenols)

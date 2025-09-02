@@ -1,0 +1,25 @@
+id: patel2016-gxe-complexity
+title: 'Analytical Complexity in Detection of Gene Variant-by-Environment Exposure Interactions in High-Throughput Genomic and Exposomic Research'
+authors:
+- family: Patel
+  given: Chirag J.
+year: 2016
+venue: Current Environmental Health Reports
+doi: 10.1007/s40572-016-0080-5
+url: https://doi.org/10.1007/s40572-016-0080-5
+
+domains:
+- genetic
+- chemical
+- methodological
+
+subdomains:
+  genetic.variants:
+    - SNPs (single nucleotide polymorphisms)
+    - Copy number variants, insertions, deletions
+  chemical.exposome:
+    - Environmental exposures (dietary nutrients, drugs, pollutants, infectious agents)
+  methodological.ewas:
+    - Environment-wide association studies (EWAS)
+    - Analytic challenges in G×E interactions
+    - Multiple testing correction, computational burden

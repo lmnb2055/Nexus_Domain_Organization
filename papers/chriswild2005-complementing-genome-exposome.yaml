@@ -1,0 +1,32 @@
+id: wild2005-complementing-genome
+title: 'Complementing the Genome with an Exposome: The Outstanding Challenge of Environmental Exposure Measurement in Molecular Epidemiology'
+authors:
+- family: Wild
+  given: Christopher P.
+year: 2005
+venue: Cancer Epidemiology, Biomarkers & Prevention
+doi: 10.1158/1055-9965.EPI-05-0456
+url: https://doi.org/10.1158/1055-9965.EPI-05-0456
+
+domains:
+- chemical
+- biological
+- methodological
+
+subdomains:
+  chemical.carcinogens:
+    - Genotoxic chemicals (DNA/protein adducts)
+    - Aflatoxin (urinary biomarkers, liver cancer risk)
+    - Polycyclic aromatic hydrocarbons (PAH-DNA adducts, lung cancer)
+    - Arylamine-hemoglobin adducts (bladder cancer)
+  biological.infections:
+    - Viral/bacterial exposures (hepatitis B, H. pylori, HPV)
+    - Antibody biomarkers for infection-related cancers
+  biological.omics:
+    - Transcriptomics (mRNA response to radiation, estrogens)
+    - Proteomics (biomarkers in cancer epidemiology)
+    - Metabolomics (metabolite fingerprints, dietary exposures, infection response)
+  methodological.exposure:
+    - Exposure biomarkers (chemical-specific, susceptibility, mechanistic)
+    - Prospective cohort studies, repeated sampling
+    - Data analysis challenges (high variability, need for bioinformatics)

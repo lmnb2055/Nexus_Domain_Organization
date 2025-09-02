@@ -1,0 +1,44 @@
+id: miller2025-integrating-exposomics
+title: 'Integrating Exposomics into Biomedicine'
+authors:
+- family: Miller
+  given: Gary W.
+- family: Banbury Exposomics Consortium
+  given: ''
+year: 2025
+venue: Science
+doi: 10.1126/science.adr0544
+url: https://doi.org/10.1126/science.adr0544
+
+domains:
+- chemical
+- physical
+- biological
+- psychosocial
+- climate
+- built
+
+subdomains:
+  chemical.industrial:
+    - Industrial chemicals linked to cancer
+    - Pesticides linked to bile duct disorder
+    - Chlorinated metabolites linked to renal carcinoma
+  chemical.airpollution:
+    - Air pollution linked to Alzheimer’s, Parkinson’s, COPD
+  physical.methods:
+    - Remote sensing (satellite-based monitoring)
+    - Wearables (personal pollutant monitoring)
+  climate.change:
+    - Extreme weather, disasters
+    - Vector-borne disease
+  biological.omics:
+    - High-resolution mass spectrometry (small molecules)
+    - Epigenetic modifications
+    - Metabolomics, proteomics integration
+  psychosocial.stress:
+    - Social stressors, social determinants of health
+    - Lifestyle (nutrition, physical activity, sleep)
+  built.environment:
+    - Green space accessibility
+    - Housing & urban environment
+    - Geospatial mapping of exposures

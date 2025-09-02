@@ -1,0 +1,46 @@
+id: manrai2017-informatics-exposome
+title: 'Informatics and Data Analytics to Support Exposome-Based Discovery for Public Health'
+authors:
+- family: Manrai
+  given: Arjun K.
+- family: Patel
+  given: Chirag J.
+- family: Balshaw
+  given: David M.
+- family: et al.
+  given: ''
+year: 2017
+venue: Annual Review of Public Health
+doi: 10.1146/annurev-publhealth-082516-012737
+url: https://doi.org/10.1146/annurev-publhealth-082516-012737
+
+domains:
+- chemical
+- physical
+- biological
+- methodological
+- social
+
+subdomains:
+  chemical.pollutants:
+    - Toxicants (3600 in Toxic Exposome DB; 13,000 in CTD)
+    - Heavy metals (Pb, Hg, Cd, etc.)
+    - PCBs, pesticides
+  chemical.pharmaceuticals:
+    - Prescription drugs, adverse drug reactions
+  physical.radiation:
+    - Radiation exposures
+  physical.climate:
+    - Temperature, weather-related exposures
+  biological.microbiome:
+    - Infectious agents (bacteria, viruses)
+  biological.metabolome:
+    - Metabolomics (mass spectrometry-based)
+  methodological.informatics:
+    - Environment-wide association studies (EWAS)
+    - Exposome–phenome association studies
+    - Data standards, ontologies, interoperability
+    - Big data analytics (neural networks, canonical correlation, graphical LASSO)
+  social.lifestyle:
+    - Smoking, diet, physical activity
+    - Nutrient intake, nutrition surveys (NHANES)

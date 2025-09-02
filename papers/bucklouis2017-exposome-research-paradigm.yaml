@@ -1,0 +1,38 @@
+id: bucklouis2017-exposome-paradigm
+title: 'The Exposome Research Paradigm: An Opportunity to Understand the Environmental Basis for Human Health and Disease'
+authors:
+- family: Buck Louis
+  given: Germaine M.
+- family: Smarr
+  given: Melissa M.
+- family: Patel
+  given: Chirag J.
+year: 2017
+venue: Current Environmental Health Reports
+doi: 10.1007/s40572-017-0126-3
+url: https://doi.org/10.1007/s40572-017-0126-3
+
+domains:
+- external
+- internal
+- methodological
+- social
+
+subdomains:
+  external.general:
+    - Air, water, built environment, climate, noise
+    - Social support, socioeconomic context
+  external.specific:
+    - Individual lifestyle: diet, sleep, cosmetics, physical activity
+  internal.responses:
+    - Physiological and biological responses (inflammation, metabolism, stress)
+    - Epigenetic reprogramming during early development
+    - Placental exposome, gametogenesis, embryogenesis
+  methodological.approaches:
+    - Top-down vs bottom-up exposome strategies
+    - Hierarchical data structures, untargeted analytics
+    - Epidemiological design challenges (sensitive windows, mixtures)
+  social.reproduction:
+    - DOHaD paradigm (developmental origins of health & disease)
+    - Reproductive health outcomes (TDS, ODS frameworks)
+    - Fertility, semen quality, pregnancy loss, reproductive cancers

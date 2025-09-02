@@ -1,0 +1,59 @@
+id: stingone2023-community-exposomics
+title: 'Community-level exposomics: a population-centered approach to address public health concerns'
+authors:
+- family: Stingone
+  given: Jeanette A.
+- family: Geller
+  given: Andrew M.
+- family: Hood
+  given: Darryl B.
+- family: Makris
+  given: Konstantinos C.
+- family: Mouton
+  given: Charles P.
+- family: States
+  given: J. Christopher
+- family: Sumner
+  given: Susan J.
+- family: Wu
+  given: K. Lily
+- family: Rajasekar
+  given: Arcot K.
+year: 2023
+venue: Exposome
+doi: 10.1093/exposome/osad009
+url: https://doi.org/10.1093/exposome/osad009
+
+domains:
+- community
+- built
+- social
+- natural
+- climate
+- methodological
+- ethical
+
+subdomains:
+  community.framework:
+    - Population-level exposome assessment
+    - Public health exposome (PHE) resource
+    - Justice40 initiative, environmental racism
+  built.environment:
+    - Urban exposome, housing, land use
+    - Infrastructure, neighborhood deprivation
+  social.context:
+    - Environmental justice, redlining, discrimination
+    - Community engagement, participatory science
+  natural.environment:
+    - Air pollution, water contamination, soil contamination
+    - Biodiversity, ecosystem disruptions
+  climate.disasters:
+    - Wildfires, hurricanes, floods, pandemics
+    - Disaster epidemiology, resilience
+  methodological.approaches:
+    - Wastewater monitoring, citizen science
+    - Spatial modeling, exposomic maps
+    - Machine learning, Bayesian networks
+  ethical.considerations:
+    - Risks of labeling communities
+    - Data ownership, stewardship, trust

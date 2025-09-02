@@ -1,0 +1,68 @@
+id: guimbaud2024-helix-ecrs
+title: 'Machine Learning-Based Health Environmental-Clinical Risk Scores in European Children'
+authors:
+- family: Guimbaud
+  given: Alice
+- family: Maitre
+  given: Lea
+- family: Vrijheid
+  given: Martine
+- family: et al.
+  given: ''
+year: 2024
+venue: Communications Medicine
+doi: 10.1038/s43856-024-00513-y
+url: https://doi.org/10.1038/s43856-024-00513-y
+
+domains:
+- chemical
+- physical
+- climate
+- biological
+- built
+- social
+- psychosocial
+- clinical
+
+subdomains:
+  chemical.airpollution:
+    - Outdoor pollutants (PM2.5, NO2, ultrafine particles)
+    - Indoor air pollution (NO2, benzene, toluene, xylenes)
+  chemical.metals:
+    - Lead, Cadmium, Mercury, Manganese, Chromium, Beryllium, Cobalt, Molybdenum, Tin, Cesium, Barium, Nickel, Copper, Zinc, Tungsten, Platinum, Thallium, Uranium
+  chemical.phenols:
+    - Bisphenol A
+    - Benzophenones (UV filters)
+  chemical.phthalates:
+    - DEHP metabolites (MECPP, MEHHP, MEHP, MEOHP)
+    - MBzP, MiBP, MnBP, MEP
+  chemical.persistent:
+    - PFAS (PFOA, PFOS, PFHxS, PFNA, PFUnDA)
+    - PCBs, organochlorine pesticides (HCB, DDT, DDE)
+    - PBDEs (flame retardants)
+    - Organophosphate pesticides (urine metabolites)
+  physical.noise:
+    - Traffic noise (modeled)
+    - Noise disturbance (neighbors, self-reported)
+  climate.meteorological:
+    - Temperature, humidity, UV exposure
+  biological.omics:
+    - Proteome (IL1B, APOA1, cytokines)
+    - Metabolome (serum & urine metabolites: acylcarnitines, Neu5Ac, etc.)
+  built.environment:
+    - Green space (NDVI, buffers 100–500m)
+    - Blue space (proximity to water)
+    - Building density, connectivity density
+    - Traffic indicators, bus line accessibility
+    - Housing characteristics (ventilation, indoor exposures)
+  social.lifestyle:
+    - Diet (breakfast, dairy, processed meat)
+    - Physical activity, sleep patterns
+    - Water consumption, cleaning product use
+    - Environmental tobacco smoke (ETS)
+  psychosocial.factors:
+    - Maternal stress
+    - Family social capital, subjective wealth
+  clinical.health:
+    - Maternal and child clinical markers (blood pressure, BMI, asthma, rhinitis)
+    - Child P-factor (psychopathology), MetS score, lung function (FEV1)

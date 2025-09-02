@@ -1,0 +1,34 @@
+id: siroux2016-exposome-concept
+title: 'The Exposome Concept: A Challenge and a Potential Driver for Environmental Health Research'
+authors:
+- family: Siroux
+  given: Valérie
+- family: Agier
+  given: Lydiane
+- family: Slama
+  given: Rémy
+year: 2016
+venue: European Respiratory Review
+doi: 10.1183/16000617.0034-2016
+url: https://doi.org/10.1183/16000617.0034-2016
+
+domains:
+- general_external
+- specific_external
+- internal
+- methodological
+
+subdomains:
+  general_external.environment:
+    - Urban-rural, climate, traffic
+    - Social capital, education, green spaces, water
+  specific_external.exposures:
+    - Diet, tobacco, infection, occupation, physical activity
+    - Consumer products, allergens, farm animals, pets
+  internal.biological:
+    - Inflammation, oxidative stress, ageing
+    - Gut microbiota, metabolic processes
+  methodological.challenges:
+    - Exposure misclassification
+    - Synergistic effects, correlation structures
+    - Omics integration (transcriptomics, proteomics, metabolomics)

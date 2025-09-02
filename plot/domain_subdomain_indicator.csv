@@ -1,0 +1,325 @@
+‹‹domain,subdomain,indicator,paper
+chemical,chemical.airpollution,"Air pollution linked to Alzheimer’s, Parkinson’s, COPD",miller2025-integrating-exposomics
+chemical,chemical.airpollution,"Indoor air pollution (NO2, benzene, toluene, xylenes)",guimbaud2024-helix-ecrs
+chemical,chemical.airpollution,"Outdoor pollutants (PM2.5, NO2, ultrafine particles)",guimbaud2024-helix-ecrs
+chemical,chemical.airpollution,"Urban air quality (PM, NO2, transport-related exposures)",fayet2024-exposome-practice
+chemical,chemical.airpollution.ambient,Air pollution (measured via geospatial + exposomics),chriswild2025-exposome-at-twenty
+chemical,chemical.airpollution.ambient,"Arylamines (hemoglobin adducts, bladder cancer)",chriswild2005-complementing-genome-exposome
+chemical,chemical.airpollution.ambient,"Indoor benzene, toluene, ethylbenzene, xylenes",maitre2022-helix-multiomics
+chemical,chemical.airpollution.ambient,"PM2.5, PM10, NO2, PM2.5 absorbance",maitre2022-helix-multiomics
+chemical,chemical.airpollution.ambient,"Polycyclic aromatic hydrocarbons (DNA adducts, lung cancer)",chriswild2005-complementing-genome-exposome
+chemical,chemical.chemicals,"Industrial toxicants, pesticides, microplastics",eu2025-human-exposome-report
+chemical,chemical.chemicals,Mixtures of regulated & unregulated chemicals,eu2025-human-exposome-report
+chemical,chemical.exposome,"Environmental exposures (dietary nutrients, drugs, pollutants, infectious agents)",patel2016-gxe-complexity
+chemical,chemical.exposures,"Air pollutants, metals, pesticides, plasticizers, PFAS",baccarelli2023-precision-environmental-health
+chemical,chemical.exposures,"Environmental pollutants, tobacco, diet",santos2020-birthcohorts
+chemical,chemical.industrial,Chlorinated metabolites linked to renal carcinoma,miller2025-integrating-exposomics
+chemical,chemical.industrial,Industrial chemicals linked to cancer,miller2025-integrating-exposomics
+chemical,chemical.industrial,Pesticides linked to bile duct disorder,miller2025-integrating-exposomics
+chemical,chemical.metals,(none),chung2018-toward-capturing-exposome
+chemical,chemical.metals,"Cadmium, Molybdenum, Copper, Caesium",maitre2022-helix-multiomics
+chemical,chemical.metals,Cancer etiology markers,chriswild2025-exposome-at-twenty
+chemical,chemical.metals,Exposome concept,chriswild2005-complementing-genome-exposome
+chemical,chemical.metals,Exposome rationale,chriswild2025-exposome-at-twenty
+chemical,chemical.metals,Gene–environment interaction,chriswild2005-complementing-genome-exposome
+chemical,chemical.metals,"Lead, Cadmium, Arsenic, Mercury, Manganese, Cobalt, Copper, Molybdenum, Cesium, Thallium",agier2020-pregnancy-exposome
+chemical,chemical.metals,"Lead, Cadmium, Mercury, Manganese, Chromium, Beryllium, Cobalt, Molybdenum, Tin, Cesium, Barium, Nickel, Copper, Zinc, Tungsten, Platinum, Thallium, Uranium",guimbaud2024-helix-ecrs
+chemical,chemical.metals,"Lead, Mercury, Arsenic, Cobalt, Manganese, Thallium, Uranium",maitre2022-helix-multiomics
+chemical,chemical.mixtures,"Co-exposures (lead, cadmium, bisphenol A)",patel2017-mixtures
+chemical,chemical.mixtures,"Persistent pollutants, nutrients",patel2017-mixtures
+chemical,chemical.nonpersistent,"Parabens, triclosan (TCS), triclocarban (TCC)",chung2018-toward-capturing-exposome
+chemical,chemical.nonpersistent,Paracetamol & 4-aminophenol,chung2018-toward-capturing-exposome
+chemical,chemical.nonpersistent,"Phenols (BPA, benzophenones)",chung2018-toward-capturing-exposome
+chemical,chemical.nonpersistent,"Phytoestrogens (genistein, daidzein, equol, enterolactone, etc.)",chung2018-toward-capturing-exposome
+chemical,chemical.persistent,Aflatoxin (urinary biomarkers → hepatocellular carcinoma risk),chriswild2005-complementing-genome-exposome
+chemical,chemical.persistent,"Drinking water contaminants (nitrates, trihalomethanes → colorectal cancer metabolomics)",chriswild2025-exposome-at-twenty
+chemical,chemical.persistent,"HCB, DDT, DDE",maitre2022-helix-multiomics
+chemical,chemical.persistent,"N-nitrosamines (dietary/processed meat, tobacco smoke; alkylated DNA bases)",chriswild2025-exposome-at-twenty
+chemical,chemical.persistent,"Organochlorine pesticides (HCB, β-HCH, γ-HCH, chlordane, DDT, DDE, mirex)",chung2018-toward-capturing-exposome
+chemical,chemical.persistent,"Organophosphate pesticides (DEP, DETP, DMP, DMTP, DMDTP)",maitre2022-helix-multiomics
+chemical,chemical.persistent,Organophosphate pesticides (urine metabolites),guimbaud2024-helix-ecrs
+chemical,chemical.persistent,"PBDEs (47, 153)",maitre2022-helix-multiomics
+chemical,chemical.persistent,PBDEs (flame retardants),guimbaud2024-helix-ecrs
+chemical,chemical.persistent,"PCBs (118, 138, 153, 170, 180)",maitre2022-helix-multiomics
+chemical,chemical.persistent,PCBs (36 congeners),chung2018-toward-capturing-exposome
+chemical,chemical.persistent,"PCBs, HCB, DDT, DDE",agier2020-pregnancy-exposome
+chemical,chemical.persistent,"PCBs, organochlorine pesticides (HCB, DDT, DDE)",guimbaud2024-helix-ecrs
+chemical,chemical.persistent,"PFAS (PFOA, PFOS, PFHxS, PFNA, PFUnDA)",guimbaud2024-helix-ecrs
+chemical,chemical.persistent,"PFAS (PFOA, PFOS, PFHxS, PFNA, PFUnDA)",maitre2022-helix-multiomics
+chemical,chemical.persistent,"PFASs (PFOA, PFOS, PFOSA, PFNA, PFDeA, etc.)",chung2018-toward-capturing-exposome
+chemical,chemical.persistent,"Polybrominated compounds (PBDEs, PBB)",chung2018-toward-capturing-exposome
+chemical,chemical.persistent,"Tobacco smoke carcinogens (DNA/protein adducts, metabolites)",chriswild2005-complementing-genome-exposome
+chemical,chemical.pesticides,Organophosphate pesticide metabolites,agier2020-pregnancy-exposome
+chemical,chemical.pharmaceuticals,"Prescription drugs, adverse drug reactions",manrai2017-informatics-exposome
+chemical,chemical.phenols,Benzophenones (UV filters),guimbaud2024-helix-ecrs
+chemical,chemical.phenols,Bisphenol A,agier2020-pregnancy-exposome
+chemical,chemical.phenols,Bisphenol A,guimbaud2024-helix-ecrs
+chemical,chemical.phenols,Bisphenol A,maitre2022-helix-multiomics
+chemical,chemical.phenols,Cancer etiology markers,chriswild2025-exposome-at-twenty
+chemical,chemical.phenols,Exposome concept,chriswild2005-complementing-genome-exposome
+chemical,chemical.phenols,Exposome rationale,chriswild2025-exposome-at-twenty
+chemical,chemical.phenols,Gene–environment interaction,chriswild2005-complementing-genome-exposome
+chemical,chemical.phenols,"Parabens (ethyl, propyl, butyl)",agier2020-pregnancy-exposome
+chemical,chemical.phenols,"Parabens (methyl, ethyl, propyl, butyl)",maitre2022-helix-multiomics
+chemical,chemical.phenols,Triclosan,maitre2022-helix-multiomics
+chemical,chemical.phthalates,Cancer etiology markers,chriswild2025-exposome-at-twenty
+chemical,chemical.phthalates,"DEHP metabolites (MECPP, MEHHP, MEHP, MEOHP)",guimbaud2024-helix-ecrs
+chemical,chemical.phthalates,"DEHP metabolites (MEHHP, MEHP, MEOHP, MECPP)",maitre2022-helix-multiomics
+chemical,chemical.phthalates,Exposome concept,chriswild2005-complementing-genome-exposome
+chemical,chemical.phthalates,Exposome rationale,chriswild2025-exposome-at-twenty
+chemical,chemical.phthalates,Gene–environment interaction,chriswild2005-complementing-genome-exposome
+chemical,chemical.phthalates,"MBzP, MiBP, MnBP, MEP",guimbaud2024-helix-ecrs
+chemical,chemical.phthalates,"MBzP, MiBP, MnBP, OHMiNP, OXOMiNP, MEP",maitre2022-helix-multiomics
+chemical,chemical.phthalates,"OHMiNP, OXOMiNP metabolites (novel in fetal growth studies)",agier2020-pregnancy-exposome
+chemical,chemical.pollutants,"Air pollution, particulate matter",petitvuillerme2025-bibliometric
+chemical,chemical.pollutants,"Heavy metals (Pb, Hg, Cd, etc.)",manrai2017-informatics-exposome
+chemical,chemical.pollutants,"Heavy metals, PCBs, pesticides",patel2014-exposome-globes
+chemical,chemical.pollutants,"Heavy metals, hydrocarbons, organochlorines",patel2025-exposome-phenome
+chemical,chemical.pollutants,"PCBs, pesticides",manrai2017-informatics-exposome
+chemical,chemical.pollutants,"PFAS, endocrine-disrupting chemicals, pesticides",petitvuillerme2025-bibliometric
+chemical,chemical.pollutants,"PFAS, persistent pollutants",patel2025-exposome-phenome
+chemical,chemical.pollutants,Persistent organic pollutants,vermeulen2020-chemistry-biology
+chemical,chemical.pollutants,"Pesticides, plasticizers, flame retardants",vermeulen2020-chemistry-biology
+chemical,chemical.pollutants,"Pharmaceuticals, preservatives",vermeulen2020-chemistry-biology
+chemical,chemical.pollutants,"Toxicants (3600 in Toxic Exposome DB; 13,000 in CTD)",manrai2017-informatics-exposome
+physical,physical.climate,"Temperature, weather-related exposures",manrai2017-informatics-exposome
+physical,physical.environment,"Outdoor/indoor air pollution, occupational exposures",vermeulen2020-chemistry-biology
+physical,physical.environment,"Temperature, humidity, light, noise, electromagnetic fields",vermeulen2020-chemistry-biology
+physical,physical.methods,Remote sensing (satellite-based monitoring),miller2025-integrating-exposomics
+physical,physical.methods,Wearables (personal pollutant monitoring),miller2025-integrating-exposomics
+physical,physical.noise,Cancer etiology markers,chriswild2025-exposome-at-twenty
+physical,physical.noise,"Day-night sound level (Lden), night sound level (Lnight)",agier2020-pregnancy-exposome
+physical,physical.noise,Exposome concept,chriswild2005-complementing-genome-exposome
+physical,physical.noise,Exposome rationale,chriswild2025-exposome-at-twenty
+physical,physical.noise,Gene–environment interaction,chriswild2005-complementing-genome-exposome
+physical,physical.noise,"Noise disturbance (neighbors, self-reported)",guimbaud2024-helix-ecrs
+physical,physical.noise,Outdoor traffic & residential noise,maitre2022-helix-multiomics
+physical,physical.noise,Traffic noise (modeled),guimbaud2024-helix-ecrs
+physical,physical.radiation,Radiation exposures,manrai2017-informatics-exposome
+climate,climate.change,"Climate adaptation exposures (heatwaves, extreme weather)",eu2025-human-exposome-report
+climate,climate.change,"Climate-driven exposures, extreme weather",petitvuillerme2025-bibliometric
+climate,climate.change,"Climate-health interactions (One Health, adaptation policies)",eu2025-human-exposome-report
+climate,climate.change,"Extreme weather, disasters",miller2025-integrating-exposomics
+climate,climate.change,"Heatwaves, wildfires, extreme weather, climate-driven exposures",baccarelli2023-precision-environmental-health
+climate,climate.change,Vector-borne disease,miller2025-integrating-exposomics
+climate,climate.disasters,"Disaster epidemiology, resilience",stingone2023-community-exposomics
+climate,climate.disasters,"Wildfires, hurricanes, floods, pandemics",stingone2023-community-exposomics
+climate,climate.factors,"Urban/rural environment, climate mapping",santos2020-birthcohorts
+climate,climate.meteorological,Climate (noted as part of general external exposome; measured with geospatial tech),chriswild2025-exposome-at-twenty
+climate,climate.meteorological,Ionizing radiation (DNA expression response genes),chriswild2005-complementing-genome-exposome
+climate,climate.meteorological,"Temperature, humidity, UV exposure",guimbaud2024-helix-ecrs
+climate,climate.meteorological,"Temperature, humidity, UV, pressure",maitre2022-helix-multiomics
+climate,climate.meteorological,"Temperature, pressure, humidity",agier2020-pregnancy-exposome
+social,social.career,"Workplace exposures, occupational hazards",eu2025-human-exposome-report
+social,social.child,Child health (early-life environmental determinants),eu2025-human-exposome-report
+social,social.citizen,"Citizen engagement, lifestyle empowerment",eu2025-human-exposome-report
+social,social.clinical,"Clinical practice, exposome-informed guidance",eu2025-human-exposome-report
+social,social.community,"Community-level exposomics, neighborhood deprivation",schmitt2023-federated-exposomics
+social,social.community,Exposome Community of Practice (CoP),schmitt2023-federated-exposomics
+social,social.context,"Community engagement, participatory science",stingone2023-community-exposomics
+social,social.context,"Education, urban/rural, social capital",santos2020-birthcohorts
+social,social.context,"Environmental justice, redlining, discrimination",stingone2023-community-exposomics
+social,social.factors,"Early-life exposures, socioeconomic status",petitvuillerme2025-bibliometric
+social,social.factors,"Household income, inequality, cultural norms, stress",vermeulen2020-chemistry-biology
+social,social.factors,"Social capital, networks",vermeulen2020-chemistry-biology
+social,social.household,Partner concordance in couples (low-to-moderate correlations),chung2018-toward-capturing-exposome
+social,social.household,Sex-specific differences in exposures,chung2018-toward-capturing-exposome
+social,social.household,Shared household effects on variance (PFASs & blood metals ~40%),chung2018-toward-capturing-exposome
+social,social.implications,Actionability of exposome findings for individuals,safarlou2023-ethical-exposome
+social,social.implications,"Bias in data, algorithms, AI",safarlou2023-ethical-exposome
+social,social.implications,"Participant privacy, consent",safarlou2023-ethical-exposome
+social,social.inequalities,"Health inequities, socio-spatial inequalities (Equal-Life, Lifepath)",fayet2024-exposome-practice
+social,social.inequalities,Mental health and development (Equal-Life project),fayet2024-exposome-practice
+social,social.lifestyle,Alcohol (tested as confounder in omics biomarker studies),chriswild2005-complementing-genome-exposome
+social,social.lifestyle,"Diet (breakfast, dairy, processed meat)",guimbaud2024-helix-ecrs
+social,social.lifestyle,"Diet (cereals, dairy, fast food, fish/seafood, legumes, meat, fruits, vegetables)",agier2020-pregnancy-exposome
+social,social.lifestyle,"Diet (fish, dairy, cereals, vegetables, fast food, sweets)",maitre2022-helix-multiomics
+social,social.lifestyle,"Diet (recorded via questionnaires, metabolomics markers)",chriswild2025-exposome-at-twenty
+social,social.lifestyle,"Diet (soy diet metabolomics fingerprint, lipoprotein changes)",chriswild2005-complementing-genome-exposome
+social,social.lifestyle,"Dietary intake, smoking, alcohol",patel2025-exposome-phenome
+social,social.lifestyle,"Education, income, ethnicity",patel2025-exposome-phenome
+social,social.lifestyle,Environmental tobacco smoke (ETS),guimbaud2024-helix-ecrs
+social,social.lifestyle,Folic acid supplementation,agier2020-pregnancy-exposome
+social,social.lifestyle,"Maternal smoking, alcohol",maitre2022-helix-multiomics
+social,social.lifestyle,"Mental and physical wellness (psychosocial factors, home occupancy)",chriswild2025-exposome-at-twenty
+social,social.lifestyle,"Nutrient intake, nutrition surveys (NHANES)",manrai2017-informatics-exposome
+social,social.lifestyle,Physical activity (lower activity linked to multimorbidity/mortality),chriswild2025-exposome-at-twenty
+social,social.lifestyle,"Physical activity, sleep patterns",guimbaud2024-helix-ecrs
+social,social.lifestyle,"Physical activity, social participation",maitre2022-helix-multiomics
+social,social.lifestyle,"Physical activity, walking/cycling, sports",agier2020-pregnancy-exposome
+social,social.lifestyle,Sleep (identified as psychosocial exposure in EWAS),chriswild2025-exposome-at-twenty
+social,social.lifestyle,Smoking (gene expression biomarkers in leukocytes),chriswild2005-complementing-genome-exposome
+social,social.lifestyle,"Smoking (linked to mortality, aging in UK Biobank exposome-wide study)",chriswild2025-exposome-at-twenty
+social,social.lifestyle,"Smoking, alcohol",agier2020-pregnancy-exposome
+social,social.lifestyle,"Smoking, diet, physical activity",manrai2017-informatics-exposome
+social,social.lifestyle,"Water consumption, cleaning product use",guimbaud2024-helix-ecrs
+social,social.reproduction,DOHaD paradigm (developmental origins of health & disease),bucklouis2017-exposome-research-paradigm
+social,social.reproduction,"Fertility, semen quality, pregnancy loss, reproductive cancers",bucklouis2017-exposome-research-paradigm
+social,social.reproduction,"Reproductive health outcomes (TDS, ODS frameworks)",bucklouis2017-exposome-research-paradigm
+social,social.surveys,NHANES data integration (1999–2006),patel2014-exposome-globes
+social,social.surveys,NHANES exposure data,patel2017-mixtures
+social,social.surveys,National Children’s Health Exposure Analysis Resource (CHEAR),patel2017-mixtures
+built,built.cities,Green and blue spaces,eu2025-human-exposome-report
+built,built.cities,"Urban planning, housing quality, sustainable transport",eu2025-human-exposome-report
+built,built.environment,Blue space (proximity to water),guimbaud2024-helix-ecrs
+built,built.environment,"Building density, connectivity density",guimbaud2024-helix-ecrs
+built,built.environment,"Building density, connectivity density",maitre2022-helix-multiomics
+built,built.environment,"Built environment (education, socio-economics, neighborhood features)",chriswild2025-exposome-at-twenty
+built,built.environment,"Bus lines/stops, building density, connectivity density",agier2020-pregnancy-exposome
+built,built.environment,"Distance to major road, traffic density",maitre2022-helix-multiomics
+built,built.environment,Exposome concept,chriswild2005-complementing-genome-exposome
+built,built.environment,"Facilities (number, type), population density",agier2020-pregnancy-exposome
+built,built.environment,"Facility density, housing crowding",maitre2022-helix-multiomics
+built,built.environment,Gene–environment interaction,chriswild2005-complementing-genome-exposome
+built,built.environment,Geospatial mapping of exposures,miller2025-integrating-exposomics
+built,built.environment,"Green space (NDVI), blue space",agier2020-pregnancy-exposome
+built,built.environment,"Green space (NDVI), blue space",maitre2022-helix-multiomics
+built,built.environment,"Green space (NDVI, buffers 100–500m)",guimbaud2024-helix-ecrs
+built,built.environment,Green space accessibility,miller2025-integrating-exposomics
+built,built.environment,Housing & urban environment,miller2025-integrating-exposomics
+built,built.environment,"Housing characteristics (ventilation, indoor exposures)",guimbaud2024-helix-ecrs
+built,built.environment,"Housing, neighborhood, spatial modeling",santos2020-birthcohorts
+built,built.environment,"Housing, urban density, transport, industrial proximity",baccarelli2023-precision-environmental-health
+built,built.environment,"Housing/building characteristics, age of buildings, safety",fayet2024-exposome-practice
+built,built.environment,"Infrastructure, neighborhood deprivation",stingone2023-community-exposomics
+built,built.environment,"Land use, walkability, traffic density, distance to major road",agier2020-pregnancy-exposome
+built,built.environment,"Traffic indicators, bus line accessibility",guimbaud2024-helix-ecrs
+built,built.environment,"Urban exposome, housing, land use",stingone2023-community-exposomics
+built,built.environment,"Urban health, housing, green/blue spaces",petitvuillerme2025-bibliometric
+biological,biological.biomarkers,Creatinine (urinary adjustment biomarker),chung2018-toward-capturing-exposome
+biological,biological.biomarkers,"Lipids (cholesterol, triglycerides, phospholipids)",chung2018-toward-capturing-exposome
+biological,biological.biomarkers,Serum cotinine (tobacco exposure biomarker),chung2018-toward-capturing-exposome
+biological,biological.epigenome,DNA methylation (450K CpG sites),maitre2022-helix-multiomics
+biological,biological.epigenome,"DNA methylation, histone modifications, chromatin structure",baccarelli2023-precision-environmental-health
+biological,biological.genome,"Genomics, genetic susceptibility (SNPs, CRISPR editing)",baccarelli2023-precision-environmental-health
+biological,biological.internal,"Inflammation, metabolism, epigenetics, gut microbiota",santos2020-birthcohorts
+biological,biological.metabolome,(none),baccarelli2023-precision-environmental-health
+biological,biological.metabolome,(none),maitre2022-helix-multiomics
+biological,biological.metabolome,Metabolomics (mass spectrometry-based),manrai2017-informatics-exposome
+biological,biological.microbiome,"Infectious agents (bacteria, viruses)",manrai2017-informatics-exposome
+biological,biological.omics,"Cancer, reproductive disorders",petitvuillerme2025-bibliometric
+biological,biological.omics,Epigenetic modifications,miller2025-integrating-exposomics
+biological,biological.omics,High-resolution mass spectrometry (small molecules),miller2025-integrating-exposomics
+biological,biological.omics,"Metabolomics, biomarkers, microbiome",petitvuillerme2025-bibliometric
+biological,biological.omics,"Metabolomics, proteomics integration",miller2025-integrating-exposomics
+biological,biological.omics,Omics technologies (molecular profiling in EHEN projects),fayet2024-exposome-practice
+biological,biological.omics,"Proteome (IL1B, APOA1, cytokines)",guimbaud2024-helix-ecrs
+biological,biological.outcomes,"Birth weight, fetal growth (sensitive to exposures)",agier2020-pregnancy-exposome
+biological,biological.proteome,"Plasma proteins (36 cytokines, apolipoproteins, adipokines)",maitre2022-helix-multiomics
+biological,biological.proteome,"Proteomic biomarkers, protein-level changes from pollutants",baccarelli2023-precision-environmental-health
+biological,biological.responses,AI-based predictive models for exposome-health links,eu2025-human-exposome-report
+biological,biological.responses,"Bodily responses (biomarkers, omics, exposome-health pathways)",eu2025-human-exposome-report
+biological,biological.responses,"Endogenous metabolites, lipid peroxidation",vermeulen2020-chemistry-biology
+biological,biological.responses,"Inflammation, oxidative stress, gut microbiome",vermeulen2020-chemistry-biology
+biological,biological.responses,Multi-omics biomarkers,safarlou2024-reconceptualizing
+biological,biological.transcriptome,mRNA (58k transcript clusters),maitre2022-helix-multiomics
+biological,biological.transcriptome,"mRNA, non-coding RNAs, epitranscriptomics",baccarelli2023-precision-environmental-health
+biological,biological.transcriptome,miRNA (1117 probes),maitre2022-helix-multiomics
+clinical,clinical.health,"Child P-factor (psychopathology), MetS score, lung function (FEV1)",guimbaud2024-helix-ecrs
+clinical,clinical.health,"Maternal and child clinical markers (blood pressure, BMI, asthma, rhinitis)",guimbaud2024-helix-ecrs
+clinical,clinical.phenotypes,"Anthropometric (BMI, waist circumference)",patel2025-exposome-phenome
+clinical,clinical.phenotypes,"Inflammation markers, serum bilirubin",patel2025-exposome-phenome
+clinical,clinical.phenotypes,"Triglycerides, cardiometabolic outcomes",patel2025-exposome-phenome
+clinical,clinical.translation,"Linking exposome data to health outcomes (disease rates, clinical research networks)",schmitt2023-federated-exposomics
+clinical,clinical.translation,"Precision nutrition, public health impact",schmitt2023-federated-exposomics
+community,community.framework,"Justice40 initiative, environmental racism",stingone2023-community-exposomics
+community,community.framework,Population-level exposome assessment,stingone2023-community-exposomics
+community,community.framework,Public health exposome (PHE) resource,stingone2023-community-exposomics
+conceptual,conceptual.definition,"Complementary to genomics, comprehensive analysis of exposures and responses",safarlou2024-reconceptualizing
+conceptual,conceptual.definition,"Exposomics as discovery-driven research program (not just synonym for ""environment"")",safarlou2024-reconceptualizing
+data,data.federation,"Cross-study linkage, semantic standards",schmitt2023-federated-exposomics
+data,data.federation,"Data ecosystem (federated repositories, FAIR principles)",schmitt2023-federated-exposomics
+digital,digital.exposome,AI and machine learning in exposome studies,petitvuillerme2025-bibliometric
+digital,digital.exposome,"Wearable sensors, screen time, digital health data",petitvuillerme2025-bibliometric
+ethical,ethical.considerations,"Data ownership, stewardship, trust",stingone2023-community-exposomics
+ethical,ethical.considerations,Risks of labeling communities,stingone2023-community-exposomics
+ethical,ethical.goals,Alignment of research program goals with societal values,safarlou2023-ethical-exposome
+ethical,ethical.goals,Participant and community engagement,safarlou2023-ethical-exposome
+external,external.general,"Air, water, built environment, climate, noise",bucklouis2017-exposome-research-paradigm
+external,external.general,"Social support, socioeconomic context",bucklouis2017-exposome-research-paradigm
+external,external.specific,(none),bucklouis2017-exposome-research-paradigm
+general_external,general_external.environment,"Green/blue spaces, traffic, housing",vrijheid2014-exposome-paradigm
+general_external,general_external.environment,"Social capital, education, green spaces, water",siroux2016-exposome-concept
+general_external,general_external.environment,"Socioeconomic status, climate, neighborhood context",vrijheid2014-exposome-paradigm
+general_external,general_external.environment,"Urban-rural, climate, traffic",siroux2016-exposome-concept
+genetic,genetic.variants,"Copy number variants, insertions, deletions",patel2016-gxe-complexity
+genetic,genetic.variants,SNPs (single nucleotide polymorphisms),patel2016-gxe-complexity
+infectious,infectious.agents,Bacterial/viral exposures (measured via immunoassays),patel2014-exposome-globes
+internal,internal.biological,"Epigenetics, metabolomics, proteomics",vrijheid2014-exposome-paradigm
+internal,internal.biological,"Gut microbiota, metabolic processes",siroux2016-exposome-concept
+internal,internal.biological,"Inflammation, oxidative stress, ageing",siroux2016-exposome-concept
+internal,internal.biological,"Inflammation, oxidative stress, microbiome",vrijheid2014-exposome-paradigm
+internal,internal.responses,Epigenetic reprogramming during early development,bucklouis2017-exposome-research-paradigm
+internal,internal.responses,"Physiological and biological responses (inflammation, metabolism, stress)",bucklouis2017-exposome-research-paradigm
+internal,internal.responses,"Placental exposome, gametogenesis, embryogenesis",bucklouis2017-exposome-research-paradigm
+lifestyle,lifestyle.behaviors,"Diet, physical activity, sleep, smoking, alcohol, drug use",vermeulen2020-chemistry-biology
+lifestyle,lifestyle.behaviors,"Physical activity, maternal behaviors",santos2020-birthcohorts
+methodological,(none),(none),baccarelli2023-precision-environmental-health
+methodological,methodological.analysis,Comparisons with NHANES data for validation,chung2018-toward-capturing-exposome
+methodological,methodological.analysis,"ExWAS, functional exposomics",schmitt2023-federated-exposomics
+methodological,methodological.analysis,Exposome globe visualization (coexposure patterns),chung2018-toward-capturing-exposome
+methodological,methodological.analysis,"Machine learning, pooled analysis, replicability",schmitt2023-federated-exposomics
+methodological,methodological.analysis,Variance partitioning (shared vs. individual environment),chung2018-toward-capturing-exposome
+methodological,methodological.approach,Discovery-driven vs hypothesis-driven research,safarlou2024-reconceptualizing
+methodological,methodological.approach,Integration of fragmented research silos (disease-specific or exposure-specific),safarlou2024-reconceptualizing
+methodological,methodological.approaches,Environment-wide association studies (EWAS),vermeulen2020-chemistry-biology
+methodological,methodological.approaches,"Epidemiological design challenges (sensitive windows, mixtures)",bucklouis2017-exposome-research-paradigm
+methodological,methodological.approaches,"Hierarchical data structures, untargeted analytics",bucklouis2017-exposome-research-paradigm
+methodological,methodological.approaches,High-resolution mass spectrometry (HRMS),vermeulen2020-chemistry-biology
+methodological,methodological.approaches,"Machine learning, Bayesian networks",stingone2023-community-exposomics
+methodological,methodological.approaches,"Network science, exposome risk score (ERS)",vermeulen2020-chemistry-biology
+methodological,methodological.approaches,"Spatial modeling, exposomic maps",stingone2023-community-exposomics
+methodological,methodological.approaches,Top-down vs bottom-up exposome strategies,bucklouis2017-exposome-research-paradigm
+methodological,methodological.approaches,"Wastewater monitoring, citizen science",stingone2023-community-exposomics
+methodological,methodological.bibliometric,"Keyword co-occurrence, thematic mapping",petitvuillerme2025-bibliometric
+methodological,methodological.bibliometric,Sex disparities in authorship & citations,petitvuillerme2025-bibliometric
+methodological,methodological.bigdata,"Big-data infrastructures, EHEN toolbox",fayet2024-exposome-practice
+methodological,methodological.bigdata,"Data integration, harmonization, reflexivity on scope",fayet2024-exposome-practice
+methodological,methodological.challenges,Exposure misclassification,siroux2016-exposome-concept
+methodological,methodological.challenges,"Omics integration (transcriptomics, proteomics, metabolomics)",siroux2016-exposome-concept
+methodological,methodological.challenges,"Synergistic effects, correlation structures",siroux2016-exposome-concept
+methodological,methodological.data,"Ethical issues in exposomics (privacy, governance)",eu2025-human-exposome-report
+methodological,methodological.data,"FAIR data, exposome cohorts (10M pan-European cohort)",eu2025-human-exposome-report
+methodological,methodological.data,Integration of fragmented health research silos,eu2025-human-exposome-report
+methodological,methodological.ewas,Analytic challenges in G×E interactions,patel2016-gxe-complexity
+methodological,methodological.ewas,Environment-wide association studies (EWAS),patel2016-gxe-complexity
+methodological,methodological.ewas,"Multiple testing correction, computational burden",patel2016-gxe-complexity
+methodological,methodological.framework,"Birth cohort studies (HELIX, EXPOsOMICS)",vrijheid2014-exposome-paradigm
+methodological,methodological.framework,ExWAS (exposure-wide association studies),vrijheid2014-exposome-paradigm
+methodological,methodological.framework,Multi-omics integration,vrijheid2014-exposome-paradigm
+methodological,methodological.informatics,"Big data analytics (neural networks, canonical correlation, graphical LASSO)",manrai2017-informatics-exposome
+methodological,methodological.informatics,"Data standards, ontologies, interoperability",manrai2017-informatics-exposome
+methodological,methodological.informatics,Environment-wide association studies (EWAS),manrai2017-informatics-exposome
+methodological,methodological.informatics,Exposome–phenome association studies,manrai2017-informatics-exposome
+methodological,methodological.machinelearning,"Correlation networks, clustering, relevance networks",patel2017-mixtures
+methodological,methodological.machinelearning,Environment-wide association studies (EWAS),patel2017-mixtures
+methodological,methodological.networks,Exposome correlation globe,patel2014-exposome-globes
+methodological,methodological.networks,"Replicated correlations (2,656/81,937 tested)",patel2014-exposome-globes
+methodological,methodological.pexwas,Phenotype-exposure-wide association studies (P-ExWAS),patel2025-exposome-phenome
+methodological,methodological.pexwas,Replication across NHANES cohorts,patel2025-exposome-phenome
+methodological,methodological.pexwas,Variance explained (R²) by single vs. multiple exposures,patel2025-exposome-phenome
+methodological,methodological.standards,"IRB/ethics committee challenges, digital health tools oversight",safarlou2023-ethical-exposome
+methodological,methodological.standards,"Measurement validity, peer review, reproducibility",safarlou2023-ethical-exposome
+methodological,methodological.statistics,"ExWAS, multivariate regression, machine learning, imputation methods",santos2020-birthcohorts
+natural,natural.environment,"Air pollution, water contamination, soil contamination",stingone2023-community-exposomics
+natural,natural.environment,"Biodiversity, ecosystem disruptions",stingone2023-community-exposomics
+nutritional,nutritional.nutrients,"Vitamins, carotenoids",patel2014-exposome-globes
+occupational,occupational.exposome,(none),fayet2024-exposome-practice
+occupational,occupational.exposures,"Workplace hazards, reproductive health links",petitvuillerme2025-bibliometric
+psychosocial,psychosocial.factors,"Family social capital, subjective wealth",guimbaud2024-helix-ecrs
+psychosocial,psychosocial.factors,Maternal stress,guimbaud2024-helix-ecrs
+psychosocial,psychosocial.factors,"Psychosocial and behavioral exposures (stress, inequality)",eu2025-human-exposome-report
+psychosocial,psychosocial.factors,"Social stress, inequality, environmental injustice",baccarelli2023-precision-environmental-health
+psychosocial,psychosocial.stress,"Lifestyle (nutrition, physical activity, sleep)",miller2025-integrating-exposomics
+psychosocial,psychosocial.stress,"Social stressors, social determinants of health",miller2025-integrating-exposomics
+regulatory,regulatory.policy,"Prioritization frameworks (NORMAN, EPA, EU)",vermeulen2020-chemistry-biology
+regulatory,regulatory.policy,"Risk assessment, replacement chemicals",vermeulen2020-chemistry-biology
+specific_external,specific_external.exposures,"Air pollution, diet, smoking, occupation",vrijheid2014-exposome-paradigm
+specific_external,specific_external.exposures,"Consumer products, allergens, farm animals, pets",siroux2016-exposome-concept
+specific_external,specific_external.exposures,"Consumer products, allergens, infections",vrijheid2014-exposome-paradigm
+specific_external,specific_external.exposures,"Diet, tobacco, infection, occupation, physical activity",siroux2016-exposome-concept
+technological,technological.needs,"Cohorts, data platforms, new omics assays",safarlou2024-reconceptualizing
+technological,technological.needs,"Mass spectrometry (targeted vs untargeted), causal inference algorithms",safarlou2024-reconceptualizing
+technological,technological.platforms,"Cloud computing, workflow pipelines, interoperability",schmitt2023-federated-exposomics
+technological,technological.tools,Data minimalization vs big-data approaches,safarlou2023-ethical-exposome
+technological,technological.tools,"Smart sensors, expotypes, high-throughput omics",safarlou2023-ethical-exposome

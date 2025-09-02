@@ -1,0 +1,33 @@
+version: 1
+domains:
+- name: biological
+  subdomains:
+  - microbiome
+  - omics
+- name: built
+  subdomains:
+  - access
+  - environment
+  - struct.urbandesign
+- name: chemical
+  subdomains:
+  - airpollution.ambient
+  - metals
+  - persistent
+  - phenols
+  - phthalates
+- name: climate
+  subdomains:
+  - extremes
+  - meteorological
+  - temperature
+- name: lifestyle
+  subdomains: []
+- name: physical
+  subdomains:
+  - noise
+- name: social
+  subdomains:
+  - cultural.demographics
+  - economic.stressors
+  - lifestyle

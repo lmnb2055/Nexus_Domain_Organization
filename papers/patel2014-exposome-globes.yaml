@@ -1,0 +1,31 @@
+id: patel2014-exposome-globes
+title: 'Development of Exposome Correlation Globes to Map out Environment-Wide Associations'
+authors:
+- family: Patel
+  given: Chirag J.
+- family: Manrai
+  given: Arjun K.
+year: 2014
+venue: Pacific Symposium on Biocomputing
+doi: 10.1142/9789814644730_0023
+url: https://psb.stanford.edu/psb-online/proceedings/psb15/patel.pdf
+
+domains:
+- chemical
+- nutritional
+- infectious
+- methodological
+- social
+
+subdomains:
+  chemical.pollutants:
+    - Heavy metals, PCBs, pesticides
+  nutritional.nutrients:
+    - Vitamins, carotenoids
+  infectious.agents:
+    - Bacterial/viral exposures (measured via immunoassays)
+  methodological.networks:
+    - Exposome correlation globe
+    - Replicated correlations (2,656/81,937 tested)
+  social.surveys:
+    - NHANES data integration (1999–2006)

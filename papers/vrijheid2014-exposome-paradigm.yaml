@@ -1,0 +1,46 @@
+id: vrijheid2014-exposome-paradigm
+title: 'The exposome: a new paradigm to study the impact of environment on health'
+authors:
+- family: Vrijheid
+  given: Martine
+- family: Slama
+  given: Rémy
+- family: Robinson
+  given: Oliver
+- family: Chatzi
+  given: Leda
+- family: Coen
+  given: Muireann
+- family: van den Hazel
+  given: Peter
+- family: Thomsen
+  given: Cathrine
+- family: Wright
+  given: John
+- family: Athersuch
+  given: Toby
+year: 2014
+venue: International Journal of Epidemiology
+doi: 10.1093/ije/dyu236
+url: https://doi.org/10.1093/ije/dyu236
+
+domains:
+- general_external
+- specific_external
+- internal
+- methodological
+
+subdomains:
+  general_external.environment:
+    - Socioeconomic status, climate, neighborhood context
+    - Green/blue spaces, traffic, housing
+  specific_external.exposures:
+    - Air pollution, diet, smoking, occupation
+    - Consumer products, allergens, infections
+  internal.biological:
+    - Epigenetics, metabolomics, proteomics
+    - Inflammation, oxidative stress, microbiome
+  methodological.framework:
+    - Birth cohort studies (HELIX, EXPOsOMICS)
+    - ExWAS (exposure-wide association studies)
+    - Multi-omics integration

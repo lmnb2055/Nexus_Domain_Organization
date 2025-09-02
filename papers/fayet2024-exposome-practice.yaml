@@ -1,0 +1,40 @@
+id: fayet2024-exposome-practice
+title: 'Putting the Exposome into Practice: An Analysis of the Promises, Methods and Outcomes of the European Human Exposome Network'
+authors:
+- family: Fayet
+  given: Yohan
+- family: Bonnin
+  given: Thomas
+- family: Canali
+  given: Stefano
+- family: Giroux
+  given: Elodie
+year: 2024
+venue: Social Science & Medicine
+doi: 10.1016/j.socscimed.2024.117056
+url: https://doi.org/10.1016/j.socscimed.2024.117056
+
+domains:
+- chemical
+- biological
+- occupational
+- social
+- methodological
+- built
+
+subdomains:
+  chemical.airpollution:
+    - Urban air quality (PM, NO2, transport-related exposures)
+  biological.omics:
+    - Omics technologies (molecular profiling in EHEN projects)
+  occupational.exposome:
+    - Workplace exposures (EPHOR project: job exposure matrices)
+  social.inequalities:
+    - Health inequities, socio-spatial inequalities (Equal-Life, Lifepath)
+    - Mental health and development (Equal-Life project)
+  methodological.bigdata:
+    - Big-data infrastructures, EHEN toolbox
+    - Data integration, harmonization, reflexivity on scope
+  built.environment:
+    - Urban environment (EXPANSE: walkability, accessibility to food outlets, green spaces)
+    - Housing/building characteristics, age of buildings, safety
